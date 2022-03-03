@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzakotim
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning VisualSLAM
-- 💞️ I’m looking to collaborate on collaborative motion planning
+- 🌱 I’m currently learning Humanoid Robotics
+- 💞️ I’m looking to collaborate on autonomous driving and formation control
 - 📫 How to reach me : timauzakov@gmail.com
 
 <!---
