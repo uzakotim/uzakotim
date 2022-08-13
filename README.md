@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzakotim
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Humanoid Robotics
-- 💞️ I’m looking to collaborate on autonomous driving and formation control
+- 🌱 I’m currently learning Formation Control
+- 🧙🏼‍♂️ I’m looking to work on Python, IOS and embedded projects
 - 📫 How to reach me : timauzakov@gmail.com
 
 <!---
