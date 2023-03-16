@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzakotim
+- 👋 Hi, I’m Timur Uzakov
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Test-Driven Development in Embedded Systems (testogram.eu)
 - 🧙🏼‍♂️ I’m looking to work on C++, Python and embedded projects
