@@ -18,7 +18,7 @@ Credits: [uzakotim](https://github.com/uzakotim)
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uzakotim&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uzakotim&theme=light&background=000000)](https://git.io/streak-stats)
 
 
 Last Edited on: 22/08/2023
