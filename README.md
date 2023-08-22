@@ -11,9 +11,7 @@ Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 
 - Know/Using: ROS | OpenCV | Electron JS
 - Learning: ZeroMQ | NextJS
-
-Credits: [uzakotim](https://github.com/uzakotim)
-
+- 
 ---
 
 ### :fire: My Stats :
