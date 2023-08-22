@@ -5,32 +5,13 @@ Timur Uzakov - engineer and programmer
 
 ### Programming Languages 🌐
 
-- Know/Using
-
-
-C++
-
-Python
-
-- Learning
-
-JavaScript
+- Know/Using : C++ | Python
+- Learning: JavaScript
 
 ### Tools 🛠️
 
-- Know/Using
-
-ROS
-
-OpenCV
-
-Electron JS
-
-- Learning
-
-ZeroMQ
-
-NextJS
+- Know/Using: ROS | OpenCV | Electron JS
+- Learning: ZeroMQ | NextJS
 
 Credits: [uzakotim](https://github.com/uzakotim)
 
