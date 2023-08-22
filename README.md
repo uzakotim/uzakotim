@@ -1,6 +1,6 @@
 ### Welcome to my Github Page 👋
 
-Timur Uzakov - engineer and programmer
+Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 
 ### Programming Languages 🌐
 
