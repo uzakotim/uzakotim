@@ -1,7 +1,6 @@
 ### Welcome to my Github Page 👋
 
 Timur Uzakov - engineer and programmer
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzakotim&show_icons=true&include_all_commits=true)
 
 ### Programming Languages 🌐
 
@@ -14,6 +13,10 @@ Timur Uzakov - engineer and programmer
 - Learning: ZeroMQ | NextJS
 
 Credits: [uzakotim](https://github.com/uzakotim)
+
+---
+
+### :fire: My Stats :
 
 Last Edited on: 22/08/2023
 <!---
