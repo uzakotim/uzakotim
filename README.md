@@ -4,13 +4,13 @@ Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 
 ### Programming Languages 🌐
 
-- Know/Using : C++ | Python
-- Learning: JavaScript
+- Know/Using : C++ | Python | Swift | JavaScript 
+- Learning: Rust
 
 ### Tools 🛠️
 
-- Know/Using: ROS | OpenCV | Electron JS
-- Learning: ZeroMQ | NextJS
+- Know/Using: SwiftUI | Xcode | OpenCV | CreateML
+- Learning: NextJS
   
 ---
 
