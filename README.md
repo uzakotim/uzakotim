@@ -16,8 +16,8 @@ Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uzakotim&theme=light&background=white)](https://git.io/streak-stats)
-
+![uzakotim's Stats](https://github-readme-stats.vercel.app/api?username=uzakotim&theme=default&show_icons=true&hide_border=false&count_private=false)
+![uzakotim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzakotim&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 Last Edited on: 22/08/2023
 <!---
