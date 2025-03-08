@@ -9,8 +9,8 @@ Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 
 ### Tools 🛠️
 
-- Know/Using: SwiftUI | Xcode | OpenCV | CreateML
-- Learning: NextJS
+- Know/Using: SwiftUI | Xcode | OpenCV | CreateML | React 
+- Learning: GenAI
   
 ---
 
