@@ -12,15 +12,3 @@ Ing. Timur Uzakov - Cybernetics and Robotics FEL CTU in Prague
 - Know/Using: SwiftUI | Xcode | OpenCV | CreateML | React 
 - Learning: GenAI
   
----
-
-### :fire: My Stats :
-
-![uzakotim's Stats](https://github-readme-stats.vercel.app/api?username=uzakotim&theme=default&show_icons=true&hide_border=true&count_private=false)
-![uzakotim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzakotim&theme=default&show_icons=true&hide_border=true&layout=compact)
-
-Last Edited on: 22/08/2023
-<!---
-uzakotim/uzakotim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
